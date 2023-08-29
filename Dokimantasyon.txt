@@ -1,0 +1,8 @@
+Se yon pwogram kote wap met non yon fichye ki egziste sou machin ou an 
+Si l pa egziste lap bay erè. Lè w fin upload fichye a ou gen plizyè 
+aksyon ou ka fè ladan l tankou ou ka afiche kontni fichye tèks ou a,
+ou ka ajoute sou tèks ou te genyen an men se nan fen an, ou ka 
+modifye l sa vle di  siprime espas oubyen karaktè nan tout tèks la. 
+
+Epi tou ou ka deside anrejistre fichye a swa sou menm sa w te gen 
+avan oubyen kreye on nouvo.
